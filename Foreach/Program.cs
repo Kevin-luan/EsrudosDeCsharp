@@ -11,7 +11,7 @@ class Program
 
         for (int i = 0; i< num.Length; i++)
         {
-            Console.WriteLine(num=int.Parse());
+           Console.WriteLine(num[i]);
         }
 
     }
