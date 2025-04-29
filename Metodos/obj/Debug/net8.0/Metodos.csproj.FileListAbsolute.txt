@@ -1,0 +1,15 @@
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\bin\Debug\net8.0\Metodos.exe
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\bin\Debug\net8.0\Metodos.deps.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\bin\Debug\net8.0\Metodos.runtimeconfig.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\bin\Debug\net8.0\Metodos.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\bin\Debug\net8.0\Metodos.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\obj\Debug\net8.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfoInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfo.cs
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\obj\Debug\net8.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\obj\Debug\net8.0\Metodos.sourcelink.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\obj\Debug\net8.0\Metodos.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\obj\Debug\net8.0\refint\Metodos.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\obj\Debug\net8.0\Metodos.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\obj\Debug\net8.0\Metodos.genruntimeconfig.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Metodos\obj\Debug\net8.0\ref\Metodos.dll
