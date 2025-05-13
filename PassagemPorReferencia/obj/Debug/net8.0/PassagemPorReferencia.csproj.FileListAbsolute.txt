@@ -1,0 +1,15 @@
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\bin\Debug\net8.0\PassagemPorReferencia.exe
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\bin\Debug\net8.0\PassagemPorReferencia.deps.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\bin\Debug\net8.0\PassagemPorReferencia.runtimeconfig.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\bin\Debug\net8.0\PassagemPorReferencia.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\bin\Debug\net8.0\PassagemPorReferencia.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\obj\Debug\net8.0\PassagemPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\obj\Debug\net8.0\PassagemPorReferencia.AssemblyInfoInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\obj\Debug\net8.0\PassagemPorReferencia.AssemblyInfo.cs
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\obj\Debug\net8.0\PassagemPorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\obj\Debug\net8.0\PassagemPorReferencia.sourcelink.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\obj\Debug\net8.0\PassagemPorReferencia.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\obj\Debug\net8.0\refint\PassagemPorReferencia.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\obj\Debug\net8.0\PassagemPorReferencia.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\obj\Debug\net8.0\PassagemPorReferencia.genruntimeconfig.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\PassagemPorReferencia\obj\Debug\net8.0\ref\PassagemPorReferencia.dll
