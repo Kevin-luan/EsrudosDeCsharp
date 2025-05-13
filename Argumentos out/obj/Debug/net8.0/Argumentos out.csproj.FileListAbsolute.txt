@@ -1,0 +1,15 @@
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\bin\Debug\net8.0\Argumentos out.exe
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\bin\Debug\net8.0\Argumentos out.deps.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\bin\Debug\net8.0\Argumentos out.runtimeconfig.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\bin\Debug\net8.0\Argumentos out.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\bin\Debug\net8.0\Argumentos out.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\obj\Debug\net8.0\Argumentos out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\obj\Debug\net8.0\Argumentos out.AssemblyInfoInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\obj\Debug\net8.0\Argumentos out.AssemblyInfo.cs
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\obj\Debug\net8.0\Argumentos out.csproj.CoreCompileInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\obj\Debug\net8.0\Argumentos out.sourcelink.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\obj\Debug\net8.0\Argumentos out.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\obj\Debug\net8.0\refint\Argumentos out.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\obj\Debug\net8.0\Argumentos out.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\obj\Debug\net8.0\Argumentos out.genruntimeconfig.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Argumentos out\obj\Debug\net8.0\ref\Argumentos out.dll
