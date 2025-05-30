@@ -1,0 +1,15 @@
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\bin\Debug\net8.0\get e set.exe
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\bin\Debug\net8.0\get e set.deps.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\bin\Debug\net8.0\get e set.runtimeconfig.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\bin\Debug\net8.0\get e set.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\bin\Debug\net8.0\get e set.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\obj\Debug\net8.0\get e set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\obj\Debug\net8.0\get e set.AssemblyInfoInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\obj\Debug\net8.0\get e set.AssemblyInfo.cs
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\obj\Debug\net8.0\get e set.csproj.CoreCompileInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\obj\Debug\net8.0\get e set.sourcelink.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\obj\Debug\net8.0\get e set.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\obj\Debug\net8.0\refint\get e set.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\obj\Debug\net8.0\get e set.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\obj\Debug\net8.0\get e set.genruntimeconfig.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\get e set\obj\Debug\net8.0\ref\get e set.dll
