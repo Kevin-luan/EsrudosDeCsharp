@@ -1,0 +1,15 @@
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\bin\Debug\net8.0\Indexadores de classe.exe
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\bin\Debug\net8.0\Indexadores de classe.deps.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\bin\Debug\net8.0\Indexadores de classe.runtimeconfig.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\bin\Debug\net8.0\Indexadores de classe.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\bin\Debug\net8.0\Indexadores de classe.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\obj\Debug\net8.0\Indexadores de classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\obj\Debug\net8.0\Indexadores de classe.AssemblyInfoInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\obj\Debug\net8.0\Indexadores de classe.AssemblyInfo.cs
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\obj\Debug\net8.0\Indexadores de classe.csproj.CoreCompileInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\obj\Debug\net8.0\Indexadores de classe.sourcelink.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\obj\Debug\net8.0\Indexadores de classe.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\obj\Debug\net8.0\refint\Indexadores de classe.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\obj\Debug\net8.0\Indexadores de classe.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\obj\Debug\net8.0\Indexadores de classe.genruntimeconfig.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\Indexadores de classe\obj\Debug\net8.0\ref\Indexadores de classe.dll
