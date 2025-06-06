@@ -1,0 +1,15 @@
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\bin\Debug\net8.0\interface.exe
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\bin\Debug\net8.0\interface.deps.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\bin\Debug\net8.0\interface.runtimeconfig.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\bin\Debug\net8.0\interface.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\bin\Debug\net8.0\interface.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\obj\Debug\net8.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\obj\Debug\net8.0\interface.AssemblyInfoInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\obj\Debug\net8.0\interface.AssemblyInfo.cs
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\obj\Debug\net8.0\interface.csproj.CoreCompileInputs.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\obj\Debug\net8.0\interface.sourcelink.json
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\obj\Debug\net8.0\interface.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\obj\Debug\net8.0\refint\interface.dll
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\obj\Debug\net8.0\interface.pdb
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\obj\Debug\net8.0\interface.genruntimeconfig.cache
+C:\Users\supor\Documents\C#\EsrudosDeCsharp\interface\obj\Debug\net8.0\ref\interface.dll
