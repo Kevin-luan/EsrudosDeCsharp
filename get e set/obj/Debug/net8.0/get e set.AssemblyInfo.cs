@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("get e set")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3da4a1435996163b583575ec7db64d8ab70b7efd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c801b0431598502abfb6bd73cf8eb3c8c6d7a3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("get e set")]
 [assembly: System.Reflection.AssemblyTitleAttribute("get e set")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
